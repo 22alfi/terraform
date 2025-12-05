@@ -1,0 +1,2 @@
+Hello from Terraform!
+This file was copied automatically.
